@@ -7,4 +7,3 @@ on post-fs
 
 service flash-nanohub-fw /system/bin/nanoapp_cmd download
     oneshot
-    disabled
