@@ -7,4 +7,3 @@ on post-fs
 
 service flash-sh-fw /vendor/bin/sensortool.bullhead -f /vendor/firmware/nano4x1.bin
     oneshot
-    disabled
